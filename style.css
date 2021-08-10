@@ -281,7 +281,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("img/meee.png");
+    background-image: url("img\meee.png");
     background-size: cover;
     height: 100vh;
     color: #fff;
